@@ -9,7 +9,7 @@ No other library or framework
 
 LightWeight
 
-    Let us know:
+    Let me know:
         your review.
         if you found any bug/error.
 
@@ -27,8 +27,8 @@ under GNU General Public License Version 2.
 
 ### Example
 ```html
-<link href="seekbar_style.css" rel="stylesheet" type="text/css"/>
-<script src="seekbar_script.js" type="text/javascript"></script>
+<link href="seekbar.css" rel="stylesheet" type="text/css"/>
+<script src="seekbar.js" type="text/javascript"></script>
 
 <div class="seekbar"></div>
 

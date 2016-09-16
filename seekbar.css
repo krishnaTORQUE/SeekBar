@@ -1,3 +1,6 @@
+/*
+ * Main
+ */
 .seekbar{
     margin: 0;
     padding: 0;
@@ -17,6 +20,9 @@
     left: 0;
 }
 
+/* 
+ * Seekber Circle Button
+ */
 .seekbar_btn{
     margin: -5px 0 0 -5px;
     height: 18px;
@@ -30,6 +36,9 @@
     background: #bbb;
 }
 
+/* 
+ * Seekber Background
+ */
 .seekbar_bg{
     margin: 0;
     background: #eee;
